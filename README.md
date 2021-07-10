@@ -84,4 +84,4 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ### You may also like..
 
-+ [HTML Email Template: sign-up confirmation](https://github.com/MRBlach/email-template-danger "example error email") - template for error email.
++ [HTML Email Template: error notification](https://github.com/MRBlach/email-template-danger "example error email") - template for error email.
