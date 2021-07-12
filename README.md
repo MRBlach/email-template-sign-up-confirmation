@@ -22,7 +22,7 @@ Example Success HTML Email Template
 
 Responsive email template for successful notification. Let your client know their action was a success.
 
-<img src="https://i.ibb.co/9r7yLRn/viewport.png" alt="viewport" border="0">
+<img src="https://i.ibb.co/yVQPNr5/success-Viewport.png" alt="success-Viewport" border="0">
 
 Here is a working live demonstration: https://mrblach.github.io/email-template-success/
 
