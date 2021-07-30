@@ -24,7 +24,7 @@ Responsive email template for successful notification. Let your client know thei
 
 <img src="https://i.ibb.co/yVQPNr5/success-Viewport.png" alt="success-Viewport" border="0">
 
-Here is a working live demonstration: https://mrblach.github.io/email-template-success/
+Here is a working live [demonstration](https://mrblach.github.io/email-template-success/)
 
 ### Steps To Execute This App
 - Download the entire code
